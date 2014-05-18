@@ -881,6 +881,21 @@
           43.295
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxford, Oxfordshire and the Cotswolds",
+        "website": "http://wiki.openstreetmap.org/wiki/Oxford",
+        "contact": "talk-gb-oxoncotswolds@openstreetmap.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.26771,
+          51.75233
+        ]
+      }
     }
   ]
 }
